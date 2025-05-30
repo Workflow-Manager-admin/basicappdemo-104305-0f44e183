@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for BasicAppDemo', 'description': 'Primary container for BasicAppDemo implementation: A simple test project to demonstrate the structure and features of a basic application.', 'framework': 'react', 'platform': 'web', 'container': '{\n  "name": "ColorCraft frontend Container",\n  "features": [\n    {\n      "name": "Sample Feature",\n      "description": "A placeholder feature to illustrate the feature list.",\n      "isEnabled": true\n    }\n  ],\n  "techStack": {\n    "frontend": [\n      "React JS"\n    ],\n    "backend": [\n      "None"\n    ],\n    "language": [\n      "JavaScript (ES6+)"\n    ]\n  },\n  "colors": {\n    "primary": "#3498db",\n    "secondary": "#2ecc71",\n    "accent": "#e74c3c"\n  },\n  "theme": "light",\n  "layoutDescription": "The UI consists of a header with the project title, a main section displaying the list of features, and a footer. The layout is clean and minimalistic."\n}'}",
+  "tasks": {},
+  "next_task_id": 1
+}

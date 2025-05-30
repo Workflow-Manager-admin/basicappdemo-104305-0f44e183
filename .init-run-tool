@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/basicappdemo-104305-0f44e183/main_container_for_basicappdemo"
+}
